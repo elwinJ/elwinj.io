@@ -1,0 +1,14 @@
+.about-container p {
+  line-height: 15px;
+  margin: 15px 0;
+}
+
+.about-container a {
+  color: cyan;
+}
+
+.about_paragraph p {
+  padding-left: 10%;
+  padding-right: 10%;
+  line-height: 1.6;
+}

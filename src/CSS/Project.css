@@ -1,0 +1,58 @@
+/* --------------Main Project page CSS--------------*/
+
+/* Primary Container*/
+.project-container {
+  margin: 10px;
+  transition: transform 200ms;
+}
+
+/* Hover transfomration effect on html elements within primary container*/
+.project-container :hover {
+  transform: scale(1.08);
+}
+
+/* --------------Modal CSS-------------- */
+
+/* Close/Exit Button */
+.project-modal button {
+  margin-left: 90%;
+  padding: 0 50px;
+}
+
+/* Main Modal Heading */
+.project-modal h1 {
+  display: flex;
+  justify-content: center;
+  object-fit: contain;
+}
+
+/* Main Modal Paragraph Description*/
+.p_description {
+  width: 50%;
+  margin-bottom: 1%;
+  margin-left: 23%;
+}
+
+/* Project's link positioning*/
+.projectLink {
+  margin-left: 45%;
+  color: cyan;
+}
+
+/* Primary container to place html elements into rows*/
+.project-modal_info {
+  display: flex;
+}
+
+/* Technologies Heading position within secondary container */
+.project-modal_info_tech h2 {
+  margin-left: 200%;
+  font-size: 30px;
+}
+
+/* Technologies listed position within secondary container*/
+.project-modal_info_tech p {
+  margin-left: 150%;
+  inline-size: 10px;
+  font-size: 25px;
+}

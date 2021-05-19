@@ -1,0 +1,15 @@
+.projects_container {
+  display: flex;
+  justify-content: center;
+
+  transition: transform 450ms;
+  line-height: 15px;
+}
+
+.projects h3 {
+  color: blue;
+}
+
+.projects_container :hover {
+  transform: scale(1.01);
+}

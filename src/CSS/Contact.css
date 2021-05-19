@@ -1,0 +1,27 @@
+.form_name-container {
+  display: flex;
+  justify-content: center;
+  padding-top: 1%;
+}
+
+.form_email-container {
+  display: flex;
+  justify-content: center;
+}
+
+.form_subject-container {
+  display: flex;
+  justify-content: center;
+}
+.submitbutton {
+  background-color: aqua;
+  color: black;
+  border: none;
+  border-radius: 0.5vw;
+  font-size: large;
+}
+
+.submitbutton:hover {
+  background-color: black;
+  color: aqua;
+}
