@@ -6,7 +6,7 @@ function Home() {
     return(
         <div className="home_content">
 
-            <h1>FirstName LastName</h1>
+            <h1>Josue Bueno</h1>
 
             <img src={profileImage} alt="my_image"/>
 
