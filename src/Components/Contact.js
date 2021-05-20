@@ -8,7 +8,7 @@ function Contact () {
     function sendEmail(e) {
         e.preventDefault();
 
-        emailjs.sendForm('service_pqr7jne', 'template_pq6q2id', e.target, 'user_qtsdFpqRoDM9pX7PMr9Ww')
+        emailjs.sendForm('service_pqr7jne', 'template_pq6q2id', e.target, process.env.REACT_APP_USERID)
           .then((result) => {
               console.log(result.text);
           }, (error) => {
@@ -26,8 +26,8 @@ function Contact () {
         <div>
             <h1>Contact Me</h1>
             
-            {/* <form onSubmit={sendEmail}> */}
-            <form onSubmit={sumbitTest}>
+            <form onSubmit={sendEmail}>
+            {/* <form onSubmit={sumbitTest}> */}
                 <div className="form_name-container">
                     <label for="name">Enter your name:</label><br></br>
                     <input type="text" id="full_name" name="name" required></input>
