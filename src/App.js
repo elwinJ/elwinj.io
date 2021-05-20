@@ -23,6 +23,10 @@ class App extends Component {
                       <Home/>
                     </Route>
 
+                    <Route path="/home">
+                      <Home/>
+                    </Route>
+
                     <Route  path="/about">
                       <About/>
                     </Route>
