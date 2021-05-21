@@ -23,14 +23,6 @@ class App extends Component {
                       <Home/>
                     </Route>
 
-                    <Route path="https://elwinj.github.io/elwinj.io/">
-                      <Home/>
-                    </Route>
-
-                    <Route path="/home">
-                      <Home/>
-                    </Route>
-
                     <Route  path="/about">
                       <About/>
                     </Route>
@@ -43,23 +35,10 @@ class App extends Component {
                       <Contact/>
                     </Route>
 
-                    {/* <Link to="/">Home</Link>
-                    
-                    {/* <Link to="/about">About</Link>
-                      
-                    <Link to="/projects">Projects</Link> */}
-  
-                   {/* <Link to="/contact">Contact</Link>  */}
                   </Switch>
                   
-                
                 </div>
                 
- 
-                
-                {/* <Route path="/about" component={About} />
-                <Route path="/projects" component={Projects} />
-                <Route path="/contact" component={Contact} /> */}
               </div>
         </Router>
     );
