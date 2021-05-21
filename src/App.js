@@ -23,6 +23,10 @@ class App extends Component {
                       <Home/>
                     </Route>
 
+                    <Route path="https://elwinj.github.io/elwinj.io/">
+                      <Home/>
+                    </Route>
+
                     <Route path="/home">
                       <Home/>
                     </Route>
