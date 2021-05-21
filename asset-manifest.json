@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/elwinj.io/static/css/main.3de08c9a.chunk.css",
-    "main.js": "/elwinj.io/static/js/main.a2fe0180.chunk.js",
-    "main.js.map": "/elwinj.io/static/js/main.a2fe0180.chunk.js.map",
+    "main.js": "/elwinj.io/static/js/main.ea9a9110.chunk.js",
+    "main.js.map": "/elwinj.io/static/js/main.ea9a9110.chunk.js.map",
     "runtime-main.js": "/elwinj.io/static/js/runtime-main.2e482d40.js",
     "runtime-main.js.map": "/elwinj.io/static/js/runtime-main.2e482d40.js.map",
     "static/js/2.2a4e363e.chunk.js": "/elwinj.io/static/js/2.2a4e363e.chunk.js",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.2e482d40.js",
     "static/js/2.2a4e363e.chunk.js",
     "static/css/main.3de08c9a.chunk.css",
-    "static/js/main.a2fe0180.chunk.js"
+    "static/js/main.ea9a9110.chunk.js"
   ]
 }
