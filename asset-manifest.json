@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/elwinj.io/static/css/main.3de08c9a.chunk.css",
-    "main.js": "/elwinj.io/static/js/main.725d05af.chunk.js",
-    "main.js.map": "/elwinj.io/static/js/main.725d05af.chunk.js.map",
-    "runtime-main.js": "/elwinj.io/static/js/runtime-main.2e482d40.js",
-    "runtime-main.js.map": "/elwinj.io/static/js/runtime-main.2e482d40.js.map",
-    "static/js/2.2a4e363e.chunk.js": "/elwinj.io/static/js/2.2a4e363e.chunk.js",
-    "static/js/2.2a4e363e.chunk.js.map": "/elwinj.io/static/js/2.2a4e363e.chunk.js.map",
-    "static/js/3.3accaa9a.chunk.js": "/elwinj.io/static/js/3.3accaa9a.chunk.js",
-    "static/js/3.3accaa9a.chunk.js.map": "/elwinj.io/static/js/3.3accaa9a.chunk.js.map",
-    "index.html": "/elwinj.io/index.html",
-    "static/css/main.3de08c9a.chunk.css.map": "/elwinj.io/static/css/main.3de08c9a.chunk.css.map",
-    "static/js/2.2a4e363e.chunk.js.LICENSE.txt": "/elwinj.io/static/js/2.2a4e363e.chunk.js.LICENSE.txt",
-    "static/media/NavBar.css": "/elwinj.io/static/media/binaryRain.77cb70fc.gif",
-    "static/media/ftb-logo.6c9fdad7.png": "/elwinj.io/static/media/ftb-logo.6c9fdad7.png",
-    "static/media/js-logo.dcd2953c.png": "/elwinj.io/static/media/js-logo.dcd2953c.png",
-    "static/media/myImage.339669f1.jpg": "/elwinj.io/static/media/myImage.339669f1.jpg",
-    "static/media/obsido-logo.312b3187.png": "/elwinj.io/static/media/obsido-logo.312b3187.png",
-    "static/media/pythonlogo.c6d53a4a.png": "/elwinj.io/static/media/pythonlogo.c6d53a4a.png"
+    "main.css": "/static/css/main.f931ea73.chunk.css",
+    "main.js": "/static/js/main.c39cb956.chunk.js",
+    "main.js.map": "/static/js/main.c39cb956.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.76f96363.js",
+    "runtime-main.js.map": "/static/js/runtime-main.76f96363.js.map",
+    "static/js/2.851ca618.chunk.js": "/static/js/2.851ca618.chunk.js",
+    "static/js/2.851ca618.chunk.js.map": "/static/js/2.851ca618.chunk.js.map",
+    "static/js/3.3accaa9a.chunk.js": "/static/js/3.3accaa9a.chunk.js",
+    "static/js/3.3accaa9a.chunk.js.map": "/static/js/3.3accaa9a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.f931ea73.chunk.css.map": "/static/css/main.f931ea73.chunk.css.map",
+    "static/js/2.851ca618.chunk.js.LICENSE.txt": "/static/js/2.851ca618.chunk.js.LICENSE.txt",
+    "static/media/NavBar.css": "/static/media/binaryRain.77cb70fc.gif",
+    "static/media/ftb-logo.6c9fdad7.png": "/static/media/ftb-logo.6c9fdad7.png",
+    "static/media/js-logo.dcd2953c.png": "/static/media/js-logo.dcd2953c.png",
+    "static/media/myImage.339669f1.jpg": "/static/media/myImage.339669f1.jpg",
+    "static/media/obsido-logo.312b3187.png": "/static/media/obsido-logo.312b3187.png",
+    "static/media/pythonlogo.c6d53a4a.png": "/static/media/pythonlogo.c6d53a4a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2e482d40.js",
-    "static/js/2.2a4e363e.chunk.js",
-    "static/css/main.3de08c9a.chunk.css",
-    "static/js/main.725d05af.chunk.js"
+    "static/js/runtime-main.76f96363.js",
+    "static/js/2.851ca618.chunk.js",
+    "static/css/main.f931ea73.chunk.css",
+    "static/js/main.c39cb956.chunk.js"
   ]
 }
